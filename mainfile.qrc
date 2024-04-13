@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/UI">
+        <file>GUI KEYS/exit.png</file>
+        <file>GUI KEYS/login.png</file>
+    </qresource>
+</RCC>
